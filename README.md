@@ -26,6 +26,13 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+- [x] adjfal;df
+- [ ] djfl;adsj
+First | second
+--------------
+con1|con2
+con3|condjfal;4
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
