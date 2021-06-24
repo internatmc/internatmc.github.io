@@ -30,10 +30,11 @@ Syntax highlighted code block
 - [ ] djfl;adsj
 
 
-First | second
---------------
-con1|con2
-con3|condjfal;4
+First  | second
+-------|--------
+con1   |  con2
+con3   | condjfal
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
