@@ -24,6 +24,18 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+
+- [x] adjfal;df
+- [ ] djfl;adsj
+
+
+First  | second
+-------|--------
+con1   |  con2
+con3   | condjfal
+
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 ```
 # Header 1
 ## Header 2
